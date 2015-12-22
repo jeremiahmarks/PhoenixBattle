@@ -1,0 +1,22 @@
+Portals:
+{"maps":{"idOthers":{"label":"Others","state":1,"bkmrk":{}}},"portals":{"idOthers":{"label":"Others","state":1,"bkmrk":{"id1450767762351":{"guid":"b7a572925b8249c196895d6cb202f7df.16","latlng":"33.279345,-111.87706","label":"Hope Covenant Church"},"id1450767765656":{"guid":"bdf6513fffae47edbf5c46cf4545b1b4.16","latlng":"33.275815,-111.879605","label":"Tri-city Baptist Church"},"id1450767768801":{"guid":"faa973725d504ce48ef6a840fb07961d.16","latlng":"33.276443,-111.875917","label":"The Shops at Pecos Ranch"},"id1450767771555":{"guid":"be9db4793e144b9ab8815e94410fd3fb.16","latlng":"33.276989,-111.874401","label":"Courtyard Fountain"},"id1450767774196":{"guid":"6c3570a538d2428f8f27f3d9502978d4.16","latlng":"33.2775,-111.873754","label":"Corner Fountain"},"id1450767777707":{"guid":"e591de107b324386b6a48be7b3f2a282.16","latlng":"33.277491,-111.87437","label":"Palm Fountain"},"id1450767780662":{"guid":"96a78d0b6edb47ed8870c97d34338fa4.16","latlng":"33.277589,-111.875","label":"Fountain of Eternity"},"id1450767784567":{"guid":"993b3f6156ad4d518b23299c962fc52d.16","latlng":"33.277743,-111.87551","label":"Oregano's Pizza Bistro - Outdoor Wall Mural"},"id1450767790325":{"guid":"d90624dd3fac44b99ebace2d60c6887f.16","latlng":"33.275974,-111.867266","label":"Homestead Park Pavilian"}}}}}
+
+Drawing:
+[{"type":"polygon","latLngs":[{"lat":33.275815,"lng":-111.879605},{"lat":33.279345,"lng":-111.87706},{"lat":33.275974,"lng":-111.867266}],"color":"#a24ac3"},{"type":"polygon","latLngs":[{"lat":33.279345,"lng":-111.87706},{"lat":33.275815,"lng":-111.879605},{"lat":33.2775,"lng":-111.873754}],"color":"#ffffff"},{"type":"polygon","latLngs":[{"lat":33.279345,"lng":-111.87706},{"lat":33.275815,"lng":-111.879605},{"lat":33.277491,"lng":-111.87437}],"color":"#51c34a"},{"type":"polygon","latLngs":[{"lat":33.279345,"lng":-111.87706},{"lat":33.275815,"lng":-111.879605},{"lat":33.277589,"lng":-111.875}],"color":"#c34a4a"},{"type":"polygon","latLngs":[{"lat":33.279345,"lng":-111.87706},{"lat":33.275815,"lng":-111.879605},{"lat":33.277743,"lng":-111.87551}],"color":"#a24ac3"},{"type":"polygon","latLngs":[{"lat":33.2775,"lng":-111.873754},{"lat":33.276443,"lng":-111.875917},{"lat":33.275974,"lng":-111.867266}],"color":"#514ac3"},{"type":"polygon","latLngs":[{"lat":33.276443,"lng":-111.875917},{"lat":33.276989,"lng":-111.874401},{"lat":33.275974,"lng":-111.867266}],"color":"#4aa8c3"},{"type":"polygon","latLngs":[{"lat":33.2775,"lng":-111.873754},{"lat":33.276989,"lng":-111.874401},{"lat":33.275974,"lng":-111.867266}],"color":"#c34a4a"}]
+
+homestead park Pavilian is the base of both the interior and exterior
+0. Tri-city Baptist Church
+1. The shops at pecos ranch
+2. Oreganos Pizza Bistro
+3. Fountains of Eternity
+4. Palm Fountain
+5. Corner Fountain
+6. Courtyard Fountain
+7. Homestead Park Pavillian
+8. Hope Covenant Church
+
+From 5 throw to 7, 6, 1
+From 6 throw to 7, 1
+From 1 throw to 7
+From 0 throw to 7, 5, 4, 3, 2, 8
+From 8 throw to 7, 5, 4, 3, 2
